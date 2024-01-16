@@ -15,10 +15,10 @@ O projeto contará com o desenvolvimento de:
 - Herança de classes;
 - Decorators de validação.
 
-## Caso seja a primeira vez que você está abrindo esse projeto, instale ela com o seguinte comando no terminal:
+Caso seja a primeira vez que você está abrindo esse projeto, instale ela com o seguinte comando no terminal:
 
 - npm install typescript@5.1.3
 
-## Para manter o compilador do Typescript executando e monitorando o seu código, recompilando para Javascript a cada mudança, você também executará o seguinte comando no terminal:
+Para manter o compilador do Typescript executando e monitorando o seu código, recompilando para Javascript a cada mudança, você também executará o seguinte comando no terminal:
 
 - tsc -w
