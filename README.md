@@ -17,7 +17,7 @@ O projeto contará com o desenvolvimento de:
 
 Caso seja a primeira vez que você está abrindo esse projeto, instale ela com o seguinte comando no terminal:
 
-- npm install typescript@5.1.3
+- npm install typescript
 
 Para manter o compilador do Typescript executando e monitorando o seu código, recompilando para Javascript a cada mudança, você também executará o seguinte comando no terminal:
 
