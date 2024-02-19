@@ -22,4 +22,3 @@ Caso seja a primeira vez que você está abrindo esse projeto, instale ela com o
 Para manter o compilador do Typescript executando e monitorando o seu código, recompilando para Javascript a cada mudança, você também executará o seguinte comando no terminal:
 
 - tsc -w
-
